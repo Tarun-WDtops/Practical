@@ -1,2 +1,0 @@
-# Practical
-New Practical Repository
